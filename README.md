@@ -2,6 +2,7 @@ First neural networks
 --------------
 ## Neural-Network-MNISTDB
 From "An introduction to neural networks for beginners" By Dr Andy Thomas
+Create a neural network from scratch(no TF, Keras and so on)
 
 ## Neural-Network-TF
 From coursera.org "Neural Network from scratch in TensorFlow" 
